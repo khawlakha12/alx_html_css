@@ -28,7 +28,7 @@ time, mark, audio, video {
 	font: inherit;
 	vertical-align: baseline;
 }
-/* HTML5 display-role reset for older browsers */
+
 article, aside, details, figcaption, figure, 
 footer, header, hgroup, menu, nav, section {
 	display: block;
@@ -48,10 +48,6 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
-
-
-/* Fonts and colors */
-
 body {
 	font-family: 'Josefin Sans', serif;
 	color: rgba(0, 0, 0, 0.8);
@@ -62,7 +58,7 @@ h1, h2, h3, h4, h5, h6, header {
 article {
 }
 header {
-	border-bottom: 1px solid rgb(221,221,221);
+
 	transition: border-bottom-color 1s ease;
 }
 header a {
